@@ -9,7 +9,7 @@ Este é um site desenvolvido utilizando HTML, CSS e JavaScript. O site foi criad
 - JavaScript
 
 ### Funcionalidades:
-- Funcionalidade 1: Imagem inicial do projeto, Se estiver na primeira imagem não poderá voltar, pois não há imagens antes dessa.
+- Funcionalidade 1: Imagem inicial do projeto, Se estiver na primeira imagem não poderá voltar, pois não há imagens antes dessa, Tanto é que o botão fica mais apagado, sinalizando esse acontecimento.
   
 ![image](https://github.com/lfguimara/carrossel-slider-de-imagens/assets/138631124/492e9456-af28-42cb-ab8e-4d17a17a03d0)
 
@@ -22,9 +22,10 @@ Este é um site desenvolvido utilizando HTML, CSS e JavaScript. O site foi criad
 
 
 
-- Funcionalidade 3: Caso todos os campos estiverem no padrão, e o usuario clicar em "Enviar", os campos ficaram verdes. Indicando que todos os campos estão de forma coerente.
+- Funcionalidade 3: Caso chegue na ultima imagem não poderá ir para proxima, pois não há imagens depois dessa dessa. Tanto é que o botão fica mais apagado, sinalizando esse acontecimento.
 
-![image](https://github.com/lfguimara/Formulario-JS/assets/138631124/b5c4d0a7-730f-4ddd-afd7-7020469229c7)
+![image](https://github.com/lfguimara/carrossel-slider-de-imagens/assets/138631124/bd8f418c-0123-4877-a44e-f74960b8bd5f)
+
 
 ### Como utilizar:
 1. Faça o download ou clone este repositório.
