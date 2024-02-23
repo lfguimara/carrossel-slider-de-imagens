@@ -1,7 +1,7 @@
 ## Projeto: Carrosel de imagens
 
 ### Descrição:
-Este é um site desenvolvido utilizando HTML, CSS e JavaScript. O site foi criado com o objetivo de representar um Carrosel de imagens, onde ao clicar na setinha branca, as imagens se alteram. Com limete de 4 imagens
+Este é um site desenvolvido utilizando HTML, CSS e JavaScript. O site foi criado com o objetivo de representar um carrosel de imagens, onde ao clicar na setinha branca, as imagens se alteram. Com limete de 4 imagens.
 
 ### Recursos:
 - HTML5
